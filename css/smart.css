@@ -1,0 +1,15 @@
+:root{
+    --main_color: #24353F;
+    --second_color:#17A2B8;
+}
+
+.main-color{
+    background-color: var(--main_color);
+}
+.second_color{
+    color: var(--second_color);
+}
+.wide {
+    width: 65%;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 0.9) !important; 
+}
